@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31728.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusalaFramework", "MusalaFramework\MusalaFramework.csproj", "{C1742391-8B83-4A08-A450-748F8CFFC77B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusalaWebsite", "MusalaWebsite\MusalaWebsite.csproj", "{F9AEE165-4CCE-4ADF-8036-174CFF4F1628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1742391-8B83-4A08-A450-748F8CFFC77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1742391-8B83-4A08-A450-748F8CFFC77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1742391-8B83-4A08-A450-748F8CFFC77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1742391-8B83-4A08-A450-748F8CFFC77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AEE165-4CCE-4ADF-8036-174CFF4F1628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AEE165-4CCE-4ADF-8036-174CFF4F1628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AEE165-4CCE-4ADF-8036-174CFF4F1628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AEE165-4CCE-4ADF-8036-174CFF4F1628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42E379F4-70AF-4A61-8621-44377A3429CA}
+	EndGlobalSection
+EndGlobal
